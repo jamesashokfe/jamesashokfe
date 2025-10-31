@@ -1,10 +1,10 @@
 # ✨ Hi, I'm James ✨
 
-👨‍💻 [Software Engineer (React, JavaScript, Web Performance) ↗](https://linkedin.com/in/jamesashok)<br/>
+👨‍💻 Software Engineer (React, JavaScript, Web Performance)<br/>
 🎩 Analysis & Debugging Wizard 🪄<br/>
 🔮 Open-Source + AI = The Future 🚀<br/>
 🌱 AI Enthusiast: Experimenting with AI agents and tools<br/>
-<!-- 🌐 [LinkedIn](https://linkedin.com/in/jamesashok) | [Website]() -->
+🌐 [Profile](https://jamesashokfe.github.io) | [LinkedIn](https://linkedin.com/in/jamesashok)
 
 ## 💻 Tech Stack:
 
